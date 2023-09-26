@@ -1,7 +1,4 @@
 hello world!! my name is vanshika
 changes by update1
-<<<<<<< HEAD
 update3
-=======
 update4
->>>>>>> update4
